@@ -1,7 +1,7 @@
 # Anbennar_Extractor
 It extracts the compiled zip from https://bitbucket.org/JayBean/anbennar-eu4-fork-public-build/downloads/?tab=downloads
 
-This will also copy and rename the Anbennar-PublicFork.mod file and edit all the lines appropriately to match the provided 
+This will also copy and rename the Anbennar-PublicFork.mod file and edit all the lines appropriately to match the provided output path name.
 
 ## Step 1
 Download Anbennar_Extract.ps1

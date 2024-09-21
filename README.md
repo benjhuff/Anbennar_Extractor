@@ -17,7 +17,7 @@ Run
 To enable the execution of signed powershell scripts
 
 ## Step 3b
-Run Anbennar_Extract.ps1 (you'll probably be prompted to trust my untrusted and self-signed "huff.systems Script Authenticator" script)
+Right click on Anbennar_Extract.ps1 to select "Run with PowerShell"  (you'll probably be prompted to trust my untrusted and self-signed "huff.systems Script Authenticator" script)
 
 ## Step 4
 Click and drag JayBean-anbennar-eu4-fork-public-build-XXXXXXXXXXXX.zip into the PowerShell window
